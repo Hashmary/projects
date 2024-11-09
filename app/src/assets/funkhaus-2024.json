@@ -155,7 +155,10 @@
     "demoUrl": "https://www.figma.com/design/Y8kZM8UnarhOteoPDy10vC/empathy-technologies-mockup?node-id=0-1&t=fHxyXsJoQsMmvKmm-0",
     "slidesUrl": "https://www.canva.com/design/DAGOd680kCE/CIw3fPEoWmXc5946PZD69A/edit?utm_content=DAGOd680kCE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton",
     "techStack": "Python, Figma, C, C++, GraphViz, Rust",
-    "milestones": ["unknown"],
++     "milestones": [
++       "Submitted proof of concept at hackathon",
++       "Changes to asset pallet are merged into PolkadotSDK"
+        ],
     "donationAddress": "1EBZ8G69NWwuu1KRFb7mfD7eD5f2xZ7BQkHd6L9fSHzpDGi"
   },
   {
