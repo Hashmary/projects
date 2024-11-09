@@ -151,10 +151,10 @@
     "teamLead": "Yip ThyDiep Ta",
     "description": "Empathy Technologies is a project that aims to optimize knowledge transfer and collaboration across diverse fields by mapping and translating complex information into user-specific contexts.",
     "eventStartedAt": "funkhaus-2024",
-    "githubRepo": "https://github.com/JanetMo/empathy-technologies",
+    "githubRepo": "https://github.com/j3dai-labs/Empathy-Technologies",
     "demoUrl": "https://www.figma.com/design/Y8kZM8UnarhOteoPDy10vC/empathy-technologies-mockup?node-id=0-1&t=fHxyXsJoQsMmvKmm-0",
     "slidesUrl": "https://www.canva.com/design/DAGOd680kCE/CIw3fPEoWmXc5946PZD69A/edit?utm_content=DAGOd680kCE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton",
-    "techStack": "Python, Figma, C, GraphViz, Rust",
+    "techStack": "Python, Figma, C, C++, GraphViz, Rust",
     "milestones": ["unknown"],
     "donationAddress": "1EBZ8G69NWwuu1KRFb7mfD7eD5f2xZ7BQkHd6L9fSHzpDGi"
   },
